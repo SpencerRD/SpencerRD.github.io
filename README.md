@@ -15,31 +15,6 @@ font-size: 50px;
 position: absolute;
 }
 
-#ram {
-
-}
-
-#hdd {
-
-}
-
-#cpu {
-
-}
-
-#graphics {
-
-}
-
-#mother {
-
-}
-
-#laptop {
-
-}
-
-</style>
 </head>
 <body>
 <h1 id="title">How Things Work Laptop</h1>
