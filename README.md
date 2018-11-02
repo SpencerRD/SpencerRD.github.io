@@ -2,18 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Nice</title>
-<style>
 
-#title {
-text-align: center;
-font-size: 72px;
-}
-
-.links {
-font-size: 50px;
-position: absolute;
-}
 
 </head>
 <body>
