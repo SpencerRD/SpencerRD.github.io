@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nice1</title>
+<style>
+
+#title {
+text-align: center;
+font-size: 80px;
+}
+
+.links {
+font-size: 50px;
+position: absolute;
+top: 110px;
+}
+
+#line {
+width: 100%;
+height: 3px;
+top: 240px;
+position: absolute;
+}
+
+.text2 {
+width: 55%;
+font-size: 36px;
+z-index: 3;
+position: absolute;
+float: right; 
+left: 810px;
+top: 280px;
+color: black;
+}
+
+#HDDI{
+width: 40%;
+top: 300px;
+left: 30px;
+position: absolute;
+z-index: 2;
+padding-bottom: 100px;
+}
+
+</style>
+</head>
+<body>
+<h1 id="title">Navigation</h1>
+<p class="links" style="padding-left: 5px;"><a href=""><span id="ram">RAM</span></a> &emsp; <a href=""><span id="hdd">HDD</span></a> &emsp; <a href=""><span id="cpu">CPU</span></a> &emsp; 
+<a href=""><span id="graphics">Graphics Card</span></a> &emsp; <a href=""><span id="mother">Motherboard</span></a> &emsp; <a href=""><span id="laptop">Parts</span></a></p>
+<img id="line" src="https://lh6.googleusercontent.com/1EbVMe8Je1aB5HFEA0FE5TQ4P5chXs-nBslkEwodBxXTCyjHt8Szu607OYY=w2400">
+
+<p class="text2">From my product (the computer) I am going to choose the Hard Drive.  A hard drive is what stores your kitty pictures. Everything on your computer is saved to your hard drive. Its a small device that goes into a computer, in said small device there is a disk. The disk spins really fast (7200 or 5600 rotations per minute). Depending on if it is magnetized it shows a 1 or a 0. It's all binary but that is another topic. There is a arm inside that reads the disk similar to how a record player does. When it goes over a certain part of the disk it loads a different part of the screen. Since the disk moves really fast there is almost no delay. As the disk spins the arm moves around to make sure it cover the entire disk and can read what is there. The easiest way to understand how a hard drive works is to think of it as a cd with extra speed.</p>
+
+<img id="HDDI" alt="Hard Drive" src="https://lh3.googleusercontent.com/FkrX3_nRKf6Zy8Bn0GBHzREPDqvCoE-_7UocI1VXucwwqYXHoAmJR9jcx4s=w2400">
+
+</body>
+</html>
